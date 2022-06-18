@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooWaan&hide=html,css)
 
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=YooWaan&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooWaan&hide=html,css)
+![YooWaan's github stats](https://github-readme-stats.vercel.app/api?username=YooWaan&show_icons=true&count_private=true&line_height=40)
+
 
 <!--
 **YooWaan/YooWaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
