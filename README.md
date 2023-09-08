@@ -3,7 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=YooWaan&color=orange&style=flat-square)
 
 
-<div align="center">
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+https://github.com/Ileriayo/markdown-badges
+
+<div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooWaan&hide=html,css&layout=compact)
 ![YooWaan's github stats](https://github-readme-stats.vercel.app/api?username=YooWaan&show_icons=true&count_private=true&line_height=20)
