@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=YooWaan&color=orange&style=flat-square)
+
 
 <div align="center">
 
