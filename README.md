@@ -22,8 +22,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YooWaan&theme=github)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YooWaan&theme=gruvbox&&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://gh-trophy.cdnsoft.net/?username=YooWaan&theme=algolia&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
