@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![](https://shields.io/badge/-Rust-C36241?style=flat-square&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -15,11 +16,12 @@
 
 <div align="left">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YooWaan&theme=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooWaan&hide=html,css&layout=compact)
 ![YooWaan's github stats](https://github-readme-stats.vercel.app/api?username=YooWaan&show_icons=true&count_private=true&line_height=20)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YooWaan&theme=github)
 
 
 [![trophy](https://gh-trophy.cdnsoft.net/?username=YooWaan&theme=algolia&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
