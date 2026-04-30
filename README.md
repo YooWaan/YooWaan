@@ -18,13 +18,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YooWaan&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooWaan&hide=html,css&layout=compact)
-![YooWaan's github stats](https://github-readme-stats.vercel.app/api?username=YooWaan&show_icons=true&count_private=true&line_height=20)
-
-
-
-
 [![trophy](https://gh-trophy.cdnsoft.net/?username=YooWaan&theme=algolia&no-bg=true&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+![YooWaan's Streak](https://streak-stats.demolab.com?user=YooWaan&mode=weekly)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooWaan&hide=html,css&layout=compact)
+<!-- ![YooWaan's github stats](https://github-readme-stats.vercel.app/api?username=YooWaan&show_icons=true&count_private=true&line_height=20) -->
+<!-- ![YooWaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YooWaan&theme=default&hide_border=true) -->
+
 
 </div>
 
